@@ -9,4 +9,4 @@
 -->
 
 ## **Want to join the community?**
-You can join by raising an [issue here](https://github.com/gdsc-uoe/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization
+You can join by raising an [issue here](https://github.com/gdsc-uoe/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
